@@ -1,0 +1,2 @@
+--env ANNOT_PREFIX	--env CHR	--env COEF_DIR	--env OUT_DIR
+/mnt/data/annot/baselineLF.	22	/mnt/data/coef/	/mnt/data/results/no-MAFLD/

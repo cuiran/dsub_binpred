@@ -1,0 +1,3 @@
+--env CHR	--env PIP_FILE	--env NUM_BINS	--env YPRED_DIR
+21	/mnt/data/pip/UKB.T2D.SAIGE.all.snp	5	/mnt/data/ypred/
+22	/mnt/data/pip/UKB.T2D.SAIGE.all.snp	5	/mnt/data/ypred/

@@ -1,0 +1,12 @@
+--env ANNOT_PREFIX	--env CHR	--env COEF_DIR	--env OUT_DIR
+/mnt/data/annot/baselineLD_withID.	1	/mnt/data/coef/	/mnt/data/results/no-MAFLD/
+/mnt/data/annot/baselineLD_withID.	2	/mnt/data/coef/	/mnt/data/results/no-MAFLD/
+/mnt/data/annot/baselineLD_withID.	3	/mnt/data/coef/	/mnt/data/results/no-MAFLD/
+/mnt/data/annot/baselineLD_withID.	4	/mnt/data/coef/	/mnt/data/results/no-MAFLD/
+/mnt/data/annot/baselineLD_withID.	5	/mnt/data/coef/	/mnt/data/results/no-MAFLD/
+/mnt/data/annot/baselineLD_withID.	6	/mnt/data/coef/	/mnt/data/results/no-MAFLD/
+/mnt/data/annot/baselineLD_withID.	7	/mnt/data/coef/	/mnt/data/results/no-MAFLD/
+/mnt/data/annot/baselineLD_withID.	8	/mnt/data/coef/	/mnt/data/results/no-MAFLD/
+/mnt/data/annot/baselineLD_withID.	9	/mnt/data/coef/	/mnt/data/results/no-MAFLD/
+/mnt/data/annot/baselineLD_withID.	10	/mnt/data/coef/	/mnt/data/results/no-MAFLD/
+/mnt/data/annot/baselineLD_withID.	11	/mnt/data/coef/	/mnt/data/results/no-MAFLD/
